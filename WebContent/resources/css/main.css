@@ -1,0 +1,11 @@
+body
+{
+	background-image:url('../images/tesselate_background.png');
+	background-repeat:repeat;
+	background-attachment:fixed;
+}
+
+.dashboardsearchbar[placeholder] {
+   font-size: 20px;
+   text-align:center;
+}
